@@ -55,5 +55,5 @@ npm install
 Запустить сервер DevServer: 
 
 ```
-npm start  123123123123123
+npm start  
 ```
